@@ -10,4 +10,3 @@ def inches_to_mm(inches)
     return mm
 
 #TODO(Developer B): Add function to convert from inches to centimetres
-
